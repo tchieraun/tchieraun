@@ -25,6 +25,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://github.com/tchieraun/tchieraun/blob/output/github-snake-dark.svg" alt="snake animation"/>
+</div>
 
 <h2 align="center">CONNECT WITH ME!</h2>
 
