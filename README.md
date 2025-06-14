@@ -17,7 +17,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+<h2 align="center">GITHUB STATS 🚀 </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tchieraun&show_icons=true&theme=tokyonight&hide=prs,issues&border_radius=10" height="150"/>
@@ -29,7 +29,7 @@
   <img src="https://github.com/tchieraun/tchieraun/blob/output/github-snake-dark.svg" alt="snake animation"/>
 </div>
 
-<h2 align="center">CONNECT WITH ME!</h2>
+<h2 align="center">CONNECT HERE!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rounak-sharma" target="_blank">
