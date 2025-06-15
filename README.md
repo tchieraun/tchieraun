@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi!<img src="https://raw.githubusercontent.com/rounaksharma/assets/main/Tenor-unscreen.gif" alt="wave gif" height="30" style="vertical-align:middle; margin-bottom:4px;" /> I am <strong>Rounak Sharma</strong>, tech enthusiast from Kolkata, India
+  <strong style="font-size: 28px;">Hi 👋 I am <span style="font-weight: bold;">Rounak Sharma</span>, tech enthusiast from Kolkata, India</strong>
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="50"/>
 </p>
 
-<h2 align="center">GITHUB STATS 🚀</h2>
+<h1 align="center"><strong>STATS 🚀 </strong></h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tchieraun&show_icons=true&theme=tokyonight&hide=prs,issues&border_radius=10" height="150"/>
@@ -24,7 +24,7 @@
   <img src="https://github.com/tchieraun/tchieraun/blob/output/github-snake-dark.svg" alt="snake animation"/>
 </p>
 
-<h2 align="center">CONNECT HERE!</h2>
+<h2 align="center">CONNECT WITH ME!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rounak-sharma" target="_blank">
