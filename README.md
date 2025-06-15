@@ -24,7 +24,7 @@
   <img src="https://github.com/tchieraun/tchieraun/blob/output/github-snake-dark.svg" alt="snake animation"/>
 </p>
 
-<h2 align="center">CONNECT WITH ME!</h2>
+<h2 align="center">LET US CONNECT! 🎯 </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rounak-sharma" target="_blank">
