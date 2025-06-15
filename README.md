@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong style="font-size: 28px;">Hi! 👋 I am <span style="font-weight: bold;">Rounak Sharma</span>, tech enthusiast from Kolkata, India</strong>
+  <strong style="font-size: 28px;">Hi! 👋 I am <span style="font-weight: bold;">Rounak Sharma</span>, a tech enthusiast from Kolkata, India</strong>
 </h1>
 
 <p align="center">
