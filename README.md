@@ -44,7 +44,7 @@
 </p>
 
 <!-- Quote of the Week -->
-<h2 align="center" style="font-family: Georgia, serif;">🔖 <strong>Quote of the Day</strong></h2>
+<h2 align="center" style="font-family: Georgia, serif;">🔖 <strong>Quote of the Week</strong></h2>
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; font-weight: 600;">
   <i><strong>"Code is like humor. When you have to explain it, it’s bad." – Cory House</strong></i>
