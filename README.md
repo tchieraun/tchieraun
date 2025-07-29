@@ -43,7 +43,7 @@
   <img src="https://github.com/tchieraun/tchieraun/blob/output/github-snake-dark.svg" alt="snake animation"/>
 </p>
 
-<!-- Quote of the Day -->
+<!-- Quote of the Week -->
 <h2 align="center" style="font-family: Georgia, serif;">🔖 <strong>Quote of the Day</strong></h2>
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; font-weight: 600;">
